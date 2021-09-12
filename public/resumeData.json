@@ -1,18 +1,20 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Vaibhav Dharmik",
+    "occupation": "Student at <b>Prof. Ram Meghe Institute of Technology & Research, Badnera</b>",
+    "description": "I eat, sleep and breathe Code",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Vaibhav! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to Hire!",
+    "email": "vaibhavd2017@gmail.com",
+    "phone": "+91 9325468803",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Ward no. 1 Vallabhnagar",
+      "city": "Pulgaon",
+      "District":"Wardha",
+      "state": "Maharashtra",
+      "zip": "442302",
+      "country": "India"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -23,23 +25,18 @@
         "className": "fa fa-youtube"
       },
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/vaibhav-dharmik-14695517a/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/vaibhav_.dharmik/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/Vaibhav-Dharmik/",
         "className": "fa fa-github"
       }
     ]
@@ -48,10 +45,11 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Prof. Ram Meghe Institute of Technology & Research, Badnera - In",
+        "jrcollege": "R.K. Jr college Pulgaon, Wardha, Maharashtra - In",
+        "degree": "Bachelor's Degree, Computer Science & Engineering",
+        "graduated": "July 2022",
+        "description": "Pursuing Degree from SGBAU Amravati University Maharashtra - In"
       }
     ],
     "work": [
@@ -59,6 +57,12 @@
         "company": "PAPA",
         "title": "Founder and CEO",
         "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      },
+      {
+        "company": "PAPA1",
+        "title": "Founder and CEO1",
+        "years": "May 2019 - Present1",
         "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
       }
     ],
